@@ -1,0 +1,71 @@
+.check {
+    color: rgb(225,225,225);
+    width: 10%;
+    height: 80%;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+ 
+
+.titulo {
+    color: rgb(141,141,141);
+    font-size: 15px;
+}
+
+.Select-control {
+    background-color: rgb(25, 25, 25) !important;
+    color:white;
+  }
+  
+.Select-menu-outer {
+    background-color: rgb(25, 25, 25);
+    color: white;
+}
+
+.selector{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    height: 80%;
+}
+
+
+
+.Select-value-label{
+    color: rgb(225,225,225) !important;
+}
+
+.Select-multi-value-wrapper{
+    background-color: transparent !important;
+}
+
+
+.Select-menu-outro{
+    background-color: transparent !important;
+}
+
+.Select-control{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: rgb(225,225,225);
+    background-color: transparent;
+}
+
+.content{
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+.graph{
+    width: 29%;
+    height: 80%;
+}
+
+.slider{
+    width: 88%;
+}
